@@ -1,0 +1,9 @@
+not-angka_unisono-p1test_zrasxy_c_scale,w_200.jpg 200w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_349.jpg 349w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_529.jpg 529w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_656.jpg 656w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_811.jpg 811w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_971.jpg 971w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_1236.jpg 1236w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_1388.jpg 1388w,
+not-angka_unisono-p1test_zrasxy_c_scale,w_1400.jpg 1400w

@@ -1,0 +1,8 @@
+not-angka_unisono-p1test_yfolon_c_scale,w_200.webp 200w,
+not-angka_unisono-p1test_yfolon_c_scale,w_449.webp 449w,
+not-angka_unisono-p1test_yfolon_c_scale,w_633.webp 633w,
+not-angka_unisono-p1test_yfolon_c_scale,w_785.webp 785w,
+not-angka_unisono-p1test_yfolon_c_scale,w_903.webp 903w,
+not-angka_unisono-p1test_yfolon_c_scale,w_1181.webp 1181w,
+not-angka_unisono-p1test_yfolon_c_scale,w_1371.webp 1371w,
+not-angka_unisono-p1test_yfolon_c_scale,w_1400.webp 1400w
